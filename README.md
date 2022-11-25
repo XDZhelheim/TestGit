@@ -1,5 +1,5 @@
 # TestGit
 
-This is a tast.
+This is a test.
 
-This is a g1thvb test.
+This is a github test.
