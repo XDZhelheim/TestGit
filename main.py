@@ -17,8 +17,6 @@ for i in range(len(squares)):
     print(squares[i], end=" ")
 print()
 
-print(list(range(0, 13, 3)))
-
 currentnum=1
 while currentnum<=5:
     print(currentnum, end=" ")
