@@ -1,5 +1,5 @@
 # TestGit
 
-This is a tst.
+This is a test.
 
-This is a g1thvb test.
+This is a g1thub test.
